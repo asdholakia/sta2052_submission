@@ -1,0 +1,8 @@
+﻿name,population,avg_house_income,med_house_income,med_age,crime_rate
+Back Bay,16427,127200.34,83464,35.3,7243.5
+Beacon Hill,5231,175154.36,121760,35,2450.4
+Fenway,31514,71296.77,44500,22,2163.8
+North End,8807,191876.14,142869,33.4,838
+South Station,25589,133869.87,67805,34.5,2599.9
+Theatre District,23157,202032,110280,35.3,1769.4
+West End,13335,143064,96563,33.2,1587.9
